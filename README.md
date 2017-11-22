@@ -1,24 +1,17 @@
-# README
+# *Intro Rails Homework*
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Create a full crud resource for Posts.
+* You  can only use the rails generate for model, controller and migration. No use of scaffolds
+* You need to create all the forms necessary to do the crud actions on the resources. (Look at form helpers that we looked at, use the lessons we have done today as a reference)
 
-Things you may want to cover:
+Bonus
 
-* Ruby version
+* Use your seed file to seed data into your database
+* Style your app to look smart
+* Create the Users resource
 
-* System dependencies
+## Difficulties
+For some reason, I found the whole thing difficult. I knew what the commands were and how to do it, but I couldn't seem to put it into code. I only managed to get something out of it because I copied the intro project which had a working version.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Pleased
+...
