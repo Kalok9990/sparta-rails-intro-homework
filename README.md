@@ -14,4 +14,4 @@ Bonus
 For some reason, I found the whole thing difficult. I knew what the commands were and how to do it, but I couldn't seem to put it into code. I only managed to get something out of it because I copied the intro project which had a working version.
 
 ## Pleased
-...
+I am pleased at how quickly I am grasping the concept of rails
